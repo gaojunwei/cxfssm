@@ -1,0 +1,6 @@
+/com/
+/jdbc.properties
+/log4j.properties
+/memcached.properties
+/spring/
+/spring-mvc.xml
